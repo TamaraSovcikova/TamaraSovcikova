@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @TamaraSovcikova
-- 👀 I’m interested in Learning to program
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my card game
-- 📫 How to reach me, dont, im an introvert
+Hey, I’m Tamara
+
+- I'm currently studing in England as an International student
+- With future plans to go to Uni here
+- I'm working on making slightly bigger projects now and learning as much as I can
+
+- I know; html,css
+- Programming languages: C#, Javascript
 
 <!---
 TamaraSovcikova/TamaraSovcikova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
