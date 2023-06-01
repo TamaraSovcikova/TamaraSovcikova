@@ -19,6 +19,7 @@
 - Sass
 - React
 - Node.js
+- Redux
 
 ## 🌟 Some of My Current Projects
 
