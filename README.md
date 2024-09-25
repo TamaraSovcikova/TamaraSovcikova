@@ -11,12 +11,12 @@
 - **Python**
 - **HTML/CSS**
   
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Frameworks/Libraries:** Bootstrap, React, jQuery
 - **Backend Development:** Node.js, Express.js, WebSockets
 - **State Management:** Redux
 
-## 🚀 Current Projects
+## Current Projects
 - **Czech Card Game:** Created an online multiplayer version of the traditional Czech card game, Sedma, using React, Express.js, and WebSockets.
 - **Parralel:** Designed and developed a professional website for a consulting firm, focusing on user experience and functionality.
 - **Personal Website:** Developed a responsive personal website from scratch utilizing HTML, CSS, and JavaScript.
