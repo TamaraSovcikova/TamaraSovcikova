@@ -1,39 +1,30 @@
-# Heyyy, I'm Tamara! ⊂ ͡◡ ‿ ͡◡つ
+# Hello, I'm Tamara! 
 
-🌍 An international student from Slovakia with a passion for programming and designing apps.
+🌍 I am an international student from Slovakia with a strong passion for programming and app development.
 
-🎓 Currently doing my A-levels and working hard towards my dream job as a software developer.
+🎓 Currently pursuing a bachelor's in Computer Science, I am actively building my skills for future opportunities.
 
-I am always eager to learn new things and improve my skills. 
+## ⌨️ Programming Languages
+- **C#**
+- **JavaScript/TypeScript**
+- **Java**
+- **Python**
+- **HTML/CSS**
+  
+## 🛠️ Tools & Technologies
+- **Frameworks/Libraries:** Bootstrap, React, jQuery
+- **Backend Development:** Node.js, Express.js, WebSockets
+- **State Management:** Redux
 
-## ⌨️ Languages I Use
+## 🚀 Current Projects
+- **Czech Card Game:** Created an online multiplayer version of the traditional Czech card game, Sedma, using React, Express.js, and WebSockets.
+- **Parralel:** Designed and developed a professional website for a consulting firm, focusing on user experience and functionality.
+- **Personal Website:** Developed a responsive personal website from scratch utilizing HTML, CSS, and JavaScript.
 
-- C#
-- JavaScript/TypeScript
-- HTML/CSS
-
-## Tools I Use
-
-- Bootstrap
-- jQuery
-- Sass
-- React
-- Node.js
-- Redux
-- Express.js
-- WebSockets
-
-## Some of My Current Projects
-- Developed a responsive and user-friendly personal website from scratch, using HTML, CSS, and Javascript
-- Built an online multiplayer version of a Czech Card game called Sedma using React, Express.js and Websockets
-
-
-## ✉️ Contact Me
+## ✉️ Contact Information
 - Email: [tamara@sovcik.com](mailto:tamara@sovcik.com)
-- Website: almost ready to publish 
+- Website: (coming soon)
 
-I love to meet new people to learn more and broaden my knowledge so if you want to teach me some more feel free to contact me! 
+I am enthusiastic about networking and collaboration, so please feel free to reach out if you’d like to connect or discuss potential opportunities.
 
 ʕ ͡> ‿ ͡<ʔ
-
-Have a lovely day!
