@@ -9,12 +9,14 @@
 - **JavaScript/TypeScript**
 - **Java**
 - **Python**
+- **C**
 - **HTML/CSS**
   
 ## Tools & Technologies
 - **Frameworks/Libraries:** Bootstrap, React, jQuery
 - **Backend Development:** Node.js, Express.js, WebSockets
 - **State Management:** Redux
+- **SQL**
 
 ## Current Projects
 - **Czech Card Game:** Created an online multiplayer version of the traditional Czech card game, Sedma, using React, Express.js, and WebSockets.
