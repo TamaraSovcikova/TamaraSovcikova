@@ -32,10 +32,10 @@ I enjoy creating tools that make everyday tasks a bit easier.
 - **[AI-Assisted Revision Web App](#)** – Full-stack app for note simplification and spaced repetition scheduling.
 - **[Sedma Card Game](#)** – Multiplayer web app with both a single-player mode and real-time gameplay.
 
-> More projects available in my [GitHub repositories](https://github.com/yourusername).
+> More projects available in my [GitHub repositories](https://github.com/TamaraSovcikova?tab=repositories).
 
 ---
 
 ### ✶⋆.˚ Connect ˚.⋆✶
 
-[LinkedIn](https://www.linkedin.com/tamara-sovcikova) | [Email](mailto:tamara.sovcik@gmail.com) | [CV](#)
+[LinkedIn](https://www.linkedin.com/tamara-sovcikova) | [Email](mailto:tamara.sovcik@gmail.com)
