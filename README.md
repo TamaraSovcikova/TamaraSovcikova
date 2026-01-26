@@ -29,8 +29,8 @@ I enjoy creating tools that make everyday tasks a bit easier.
 ---
 
 ### Projects
-- **[AI-Assisted Revision Web App](#)** – Full-stack app for note simplification and spaced repetition scheduling.
-- **[Sedma Card Game](#)** – Multiplayer web app with both a single-player mode and real-time gameplay.
+- **[AI-Assisted Revision Web App](https://github.com/TamaraSovcikova/Revisia)** – Full-stack app for note simplification and spaced repetition scheduling.
+- **[Sedma Card Game](https://github.com/TamaraSovcikova/Sedma)** – Multiplayer web app with both a single-player mode and real-time gameplay.
 
 > More projects available in my [GitHub repositories](https://github.com/TamaraSovcikova?tab=repositories).
 
