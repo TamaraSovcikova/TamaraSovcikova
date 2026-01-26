@@ -38,4 +38,4 @@ I enjoy creating tools that make everyday tasks a bit easier.
 
 ### ✶⋆.˚ Connect ˚.⋆✶
 
-[LinkedIn](https://www.linkedin.com/tamara-sovcikova) | [Email](mailto:tamara.sovcik@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tamara-sovcikova) | [Email](mailto:tamara.sovcik@gmail.com)
