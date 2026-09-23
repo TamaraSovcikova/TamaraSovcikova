@@ -1,6 +1,5 @@
 # Hi, I'm Tamara  <img src="https://media.tenor.com/M0gs_UD_VDIAAAAj/cat-kawaii.gif" alt="judging cat" width="40"/>
-I'm a B.Sc. Computer Science student at the University of Surrey, building full-stack web apps and exploring AI applications.  
-I enjoy creating tools that make everyday tasks a bit easier.
+I build full-stack apps and AI products.
 
 ---
 
@@ -9,30 +8,39 @@ I enjoy creating tools that make everyday tasks a bit easier.
 **Languages:**  
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
-[![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/) 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 **Frameworks & Libraries:**  
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/) 
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/) 
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/) 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/) 
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Hono](https://img.shields.io/badge/-Hono-E36002?style=flat&logo=hono&logoColor=white)](https://hono.dev/) 
+[![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) 
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/) 
+[![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat&logo=trpc&logoColor=white)](https://trpc.io/) 
+[![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)](https://www.electronjs.org/) 
+[![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat&logo=zod&logoColor=white)](https://zod.dev/)
 
-**Tools & Practices:**  
+**Platforms & Tools:**  
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
+[![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/) 
+[![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/) 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) 
-[![WebSockets](https://img.shields.io/badge/-WebSockets-0078D7?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) 
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) 
+[![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat)](https://playwright.dev/)
+
+**AI:**  
+[![MCP](https://img.shields.io/badge/-MCP-000000?style=flat)](https://modelcontextprotocol.io/) 
+[![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)](https://www.langchain.com/langgraph)
 
 ---
 
 ### Projects
-- **[AI-Assisted Revision Web App](https://github.com/TamaraSovcikova/Revisia)** – Full-stack app for note simplification and spaced repetition scheduling.
-- **[Sedma Card Game](https://github.com/TamaraSovcikova/Sedma)** – Multiplayer web app with both a single-player mode and real-time gameplay.
+- **Revisia**: AI study app that turns notes into concepts, tutors students on them and plans revision around their exams. In closed alpha, source private.
+- **[Sedma Card Game](https://github.com/TamaraSovcikova/Sedma)**: real-time multiplayer card game over WebSockets, with AI opponents for single-player mode.
 
-> More projects available in my [GitHub repositories](https://github.com/TamaraSovcikova?tab=repositories).
+> More projects coming public soon.
 
 ---
 
