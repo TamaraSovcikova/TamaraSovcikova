@@ -38,9 +38,12 @@ I build full-stack apps and AI products.
 
 ### Projects
 - **Revisia**: AI study app that turns notes into concepts, tutors students on them and plans revision around their exams. In closed alpha, source private.
-- **[Sedma Card Game](https://github.com/TamaraSovcikova/Sedma)**: real-time multiplayer card game over WebSockets, with AI opponents for single-player mode.
-
-> More projects coming public soon.
+- **[Checkbox](https://github.com/TamaraSovcikova/checkbox)**: task manager I use every day, with two-way Google Calendar sync and an MCP server that lets Claude manage my tasks.
+- **[Calorie Tracker](https://github.com/TamaraSovcikova/calorie-tracker)**: offline-first nutrition tracker PWA with phone and web sync.
+- **[Aura](https://github.com/TamaraSovcikova/aura)**: migraine tracker with one-tap logging and headache-day statistics.
+- **[Atlas](https://github.com/TamaraSovcikova/atlas)**: general-knowledge app built on spaced repetition.
+- **[Gecko](https://github.com/TamaraSovcikova/gecko)**: personal finance app for young adults, with budgeting, spend forecasting and an AI tutor.
+- **[Sedma](https://github.com/TamaraSovcikova/Sedma)**: real-time multiplayer card game over WebSockets, with AI opponents.
 
 ---
 
